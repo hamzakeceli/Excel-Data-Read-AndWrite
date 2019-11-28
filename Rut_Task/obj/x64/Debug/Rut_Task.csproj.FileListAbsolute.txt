@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Rut_Task\Rut_Task\bin\x64\Debug\Rut_Task.exe.config
+C:\Users\User\source\repos\Rut_Task\Rut_Task\bin\x64\Debug\Rut_Task.exe
+C:\Users\User\source\repos\Rut_Task\Rut_Task\bin\x64\Debug\Rut_Task.pdb
+C:\Users\User\source\repos\Rut_Task\Rut_Task\bin\x64\Debug\ExcelDataReader.dll
+C:\Users\User\source\repos\Rut_Task\Rut_Task\bin\x64\Debug\ExcelDataReader.pdb
+C:\Users\User\source\repos\Rut_Task\Rut_Task\bin\x64\Debug\ExcelDataReader.xml
+C:\Users\User\source\repos\Rut_Task\Rut_Task\obj\x64\Debug\Rut_Task.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Rut_Task\Rut_Task\obj\x64\Debug\Rut_Task.csproj.ResolveComReference.cache
+C:\Users\User\source\repos\Rut_Task\Rut_Task\obj\x64\Debug\Rut_Task.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Rut_Task\Rut_Task\obj\x64\Debug\Rut_Task.csproj.CopyComplete
+C:\Users\User\source\repos\Rut_Task\Rut_Task\obj\x64\Debug\Rut_Task.exe
+C:\Users\User\source\repos\Rut_Task\Rut_Task\obj\x64\Debug\Rut_Task.pdb
